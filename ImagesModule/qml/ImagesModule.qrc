@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/QtImagesModule">
+        <file>Images.qml</file>
+    </qresource>
+</RCC>
